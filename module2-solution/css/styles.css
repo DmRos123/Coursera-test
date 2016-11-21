@@ -39,13 +39,13 @@ p {
 h2 {
 	position: relative;
 	top: -18px;
-	width: 33%;
+	width: 34%;
 	height:35px;
 	float:right;
-	padding: 5px;
+	padding: 5px 1px 5px 2px;
 	text-align: center;
 	font-family: Arial, Helvetica, sans-serif;
-	font-size: 1.25em;
+	font-size: 1.2em;
 	border: 1px solid black;
 	
  	
