@@ -5,11 +5,12 @@ h1 {
 
 .page-header {
 	margin-bottom:0;
+	border-bottom: 0px;
 	
 }
 
 .row {
-	margin: 0 -15px 0 15px;
+	margin: 0 15px 0 15px;
 }
 #nav-list a {
   text-align: center;
@@ -17,7 +18,7 @@ h1 {
 
 #chicken {
 	background: gray;
-	width: 95%;
+	width: 100%;
 	margin: 0 auto 0 auto;
 }
 
