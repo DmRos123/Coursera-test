@@ -14,8 +14,17 @@ h1 {
 }
 #nav-list a {
   text-align: center;
+  border: 1px solid gray;
 }
 
+#nav-list {
+  background: #E7E7E7;
+
+
+}
+#nav-list a:hover {
+  background: #EEE;  
+}
 #chicken {
 	background: gray;
 	width: 100%;
